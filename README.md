@@ -1,4 +1,8 @@
-## Hi there 👋
+# Olá, me chamo Ítalo!
+
+## Bem vindo ao meu perfil do github!
+
+- :ant: Sou um mero mortal na área de desenvolvimento
 
 <!--
 **italoryansouza/italoryansouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
