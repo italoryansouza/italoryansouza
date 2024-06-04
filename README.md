@@ -4,7 +4,7 @@
 
 - :ant:  Sou um mero mortal na área de desenvolvimento, e estou buscando aprender sobre a área de front-end, estudando com muito afinco!
 
-## Tecnologias em estudo:
+## Tecnologias em estudo no momento:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60" display = "inline"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" display = "inline">
 
