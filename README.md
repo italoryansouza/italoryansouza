@@ -10,7 +10,7 @@
 
 ## Redes Sociais
 
-https://italoryansouza.github.io/social-links-profile-main/
+<a target='_blank'>https://italoryansouza.github.io/social-links-profile-main/</a>
 
 ## Meu Progresso:
 <div>
