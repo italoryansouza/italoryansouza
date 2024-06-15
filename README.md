@@ -8,7 +8,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60" display = "inline"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" display = "inline">
 
-<a href="https://italoryansouza.github.io/social-links-profile-main/" target="_blank">Redes Sociais</a>
+Para me conhecer melhor, veja minhas principais redes sociais<a href="https://italoryansouza.github.io/social-links-profile-main/" target="_blank">Clique aqui!</a>
 
 ## Meu Progresso:
 <div>
